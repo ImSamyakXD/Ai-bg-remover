@@ -45,6 +45,6 @@ Upload → Remove Background → Download Transparent Image
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-background-remover.git
-cd ai-background-remover
+git clone https://github.com/ImSamyakXD/Ai-bg-remover/.git
+cd Ai-bg-remover
 
